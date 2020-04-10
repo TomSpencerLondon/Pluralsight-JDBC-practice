@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5544b17-cc41-4c2b-a38d-d1d11ec0974e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aEXpGzs1Qub6Sfz3moxf4lmEuc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.MySQL" />
+  </component>
+  <component name="RunManager" selected="Application.Main (4)">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.corejdbc.m3c2.Main" />
+      <module name="corejdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.corejdbc.m3c2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.corejdbc.m4c3.Main" />
+      <module name="corejdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.corejdbc.m4c3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.corejdbc.m4c5.Main" />
+      <module name="corejdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.corejdbc.m4c5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="14" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.corejdbc.m2c1.Main" />
+      <module name="corejdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.corejdbc.m2c1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_TCF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.corejdbc.m4c2.Main_TCF" />
+      <module name="corejdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.corejdbc.m4c2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main_TCF" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5544b17-cc41-4c2b-a38d-d1d11ec0974e" name="Default Changelist" comment="" />
+      <created>1586301908280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586301908280</updated>
+      <workItem from="1586301911293" duration="771000" />
+      <workItem from="1586383621946" duration="8261000" />
+      <workItem from="1586425584348" duration="2234000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="177" key="#Inspections" timestamp="1586384542949">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="488" y="177" key="#Inspections/0.23.1792.1017@0.23.1792.1017" timestamp="1586384542949" />
+    <state x="-1316" y="-502" key="#Main" timestamp="1586415221689">
+      <screen x="-1920" y="-661" width="1920" height="1057" />
+    </state>
+    <state x="-1316" y="-502" key="#Main/-1920.-661.1920.1057/0.23.1792.1017@-1920.-661.1920.1057" timestamp="1586415221689" />
+    <state x="564" y="176" key="#Main/0.23.1792.1017@0.23.1792.1017" timestamp="1586385741459" />
+    <state x="-1316" y="-522" key="#Main_(1)" timestamp="1586415278015">
+      <screen x="-1920" y="-684" width="1920" height="1080" />
+    </state>
+    <state x="-1316" y="-522" key="#Main_(1)/-1920.-684.1920.1080/0.0.1792.1120@-1920.-684.1920.1080" timestamp="1586415278015" />
+    <state x="564" y="176" key="#Main_(1)/0.23.1792.1017@0.23.1792.1017" timestamp="1586385185541" />
+    <state x="458" y="191" key="#Project_Structure" timestamp="1586302346530">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="458" y="191" key="#Project_Structure/-1920.-661.1920.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1586302346530" />
+    <state x="-1633" y="-561" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586415199503">
+      <screen x="-1920" y="-661" width="1920" height="1057" />
+    </state>
+    <state x="-1633" y="-561" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.-661.1920.1057/0.23.1792.1017@-1920.-661.1920.1057" timestamp="1586415199503" />
+    <state x="488" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1586385640644" />
+    <state x="-1211" y="-334" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586421831677">
+      <screen x="-1920" y="-684" width="1920" height="1080" />
+    </state>
+    <state x="-1211" y="-334" key="#com.intellij.fileTypes.FileTypeChooser/-1920.-684.1920.1080/0.0.1792.1120@-1920.-684.1920.1080" timestamp="1586421831677" />
+    <state x="609" y="355" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1586384924402">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="609" y="355" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1586384924402" />
+    <state width="1920" height="287" key="GridCell.Tab.0.bottom" timestamp="1586425555860">
+      <screen x="-1920" y="-684" width="1920" height="1080" />
+    </state>
+    <state width="1400" height="287" key="GridCell.Tab.0.bottom/-1920.-661.1920.1057/0.23.1792.1017@-1920.-661.1920.1057" timestamp="1586415248385" />
+    <state width="1920" height="287" key="GridCell.Tab.0.bottom/-1920.-684.1920.1080/0.0.1792.1120@-1920.-684.1920.1080" timestamp="1586425555860" />
+    <state width="1400" height="287" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1586385746996" />
+    <state width="1920" height="287" key="GridCell.Tab.0.center" timestamp="1586425555858">
+      <screen x="-1920" y="-684" width="1920" height="1080" />
+    </state>
+    <state width="1400" height="287" key="GridCell.Tab.0.center/-1920.-661.1920.1057/0.23.1792.1017@-1920.-661.1920.1057" timestamp="1586415248384" />
+    <state width="1920" height="287" key="GridCell.Tab.0.center/-1920.-684.1920.1080/0.0.1792.1120@-1920.-684.1920.1080" timestamp="1586425555858" />
+    <state width="1400" height="287" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1586385746995" />
+    <state width="1920" height="287" key="GridCell.Tab.0.left" timestamp="1586425555857">
+      <screen x="-1920" y="-684" width="1920" height="1080" />
+    </state>
+    <state width="1400" height="287" key="GridCell.Tab.0.left/-1920.-661.1920.1057/0.23.1792.1017@-1920.-661.1920.1057" timestamp="1586415248383" />
+    <state width="1920" height="287" key="GridCell.Tab.0.left/-1920.-684.1920.1080/0.0.1792.1120@-1920.-684.1920.1080" timestamp="1586425555857" />
+    <state width="1400" height="287" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1586385746995" />
+    <state width="1920" height="287" key="GridCell.Tab.0.right" timestamp="1586425555859">
+      <screen x="-1920" y="-684" width="1920" height="1080" />
+    </state>
+    <state width="1400" height="287" key="GridCell.Tab.0.right/-1920.-661.1920.1057/0.23.1792.1017@-1920.-661.1920.1057" timestamp="1586415248384" />
+    <state width="1920" height="287" key="GridCell.Tab.0.right/-1920.-684.1920.1080/0.0.1792.1120@-1920.-684.1920.1080" timestamp="1586425555859" />
+    <state width="1400" height="287" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1586385746995" />
+    <state width="239" height="457" key="HiddenNamespacesPopup" timestamp="1586414242431">
+      <screen x="-1920" y="-661" width="1920" height="1057" />
+    </state>
+    <state width="239" height="457" key="HiddenNamespacesPopup/-1920.-661.1920.1057/0.23.1792.1017@-1920.-661.1920.1057" timestamp="1586414242431" />
+    <state x="426" y="173" key="Maven.ArtifactSearchDialog" timestamp="1586384017015">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="426" y="173" key="Maven.ArtifactSearchDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1586384017015" />
+    <state x="359" y="164" key="SettingsEditor" timestamp="1586385154991">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="359" y="164" key="SettingsEditor/-1920.-661.1920.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1586302360088" />
+    <state x="359" y="164" key="SettingsEditor/0.23.1792.1017@0.23.1792.1017" timestamp="1586385154991" />
+    <state x="535" y="358" key="com.intellij.ide.util.TipDialog" timestamp="1586301913511">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="535" y="358" key="com.intellij.ide.util.TipDialog/-1920.-661.1920.1057/0.23.1792.1017@0.23.1792.1017" timestamp="1586301913511" />
+    <state x="575" y="482" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586385148856">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="575" y="482" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1792.1017@0.23.1792.1017" timestamp="1586385148856" />
+    <state x="265" y="209" key="new project wizard" timestamp="1586387488712">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="265" y="209" key="new project wizard/0.23.1792.1017@0.23.1792.1017" timestamp="1586387488712" />
+    <state x="-905" y="-529" width="718" height="718" key="search.everywhere.popup" timestamp="1586421848140">
+      <screen x="-1920" y="-684" width="1920" height="1080" />
+    </state>
+    <state x="-905" y="-529" width="718" height="718" key="search.everywhere.popup/-1920.-684.1920.1080/0.0.1792.1120@-1920.-684.1920.1080" timestamp="1586421848140" />
+    <state x="947" y="169" width="670" height="676" key="search.everywhere.popup/0.23.1792.1017@0.23.1792.1017" timestamp="1586385420241" />
+  </component>
+</project>
